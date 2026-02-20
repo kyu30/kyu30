@@ -4,7 +4,7 @@ I'm Keith, a data science student at BU. I'm interested in machine learning and 
 
 🌱 I’m currently learning deep learning, sequential decision making, and app development
 
-🔭 I’m currently working on a Native Ads classifier model and a skincare review app
+<!--🔭 I’m currently working on a Native Ads classifier model and a skincare review app -->
 
 📫 How to reach me: [keithcyu@gmail.com](keithcyu@gmail.com)
 
