@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Keith, a data science student at BU. I'm interested in machine learning and playing around with predictive models
+I'm Keith, a data science grad student at Georgetown. I'm interested in machine learning and playing around with predictive models
 
-🌱 I’m currently learning deep learning, sequential decision making, and app development
+I’m currently doing projects with deep learning and web/app development
 
 <!--🔭 I’m currently working on a Native Ads classifier model and a skincare review app -->
 
